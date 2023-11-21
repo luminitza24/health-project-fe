@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/luminitza24/health-project-fe/static/css/main.3575eee6.css",
+    "main.js": "/luminitza24/health-project-fe/static/js/main.328a5dd0.js",
+    "static/js/781.940a7fab.chunk.js": "/luminitza24/health-project-fe/static/js/781.940a7fab.chunk.js",
+    "static/js/537.1d49d569.chunk.js": "/luminitza24/health-project-fe/static/js/537.1d49d569.chunk.js",
+    "static/js/815.fb26101b.chunk.js": "/luminitza24/health-project-fe/static/js/815.fb26101b.chunk.js",
+    "static/js/752.024f39f2.chunk.js": "/luminitza24/health-project-fe/static/js/752.024f39f2.chunk.js",
+    "static/js/557.7d18e2ce.chunk.js": "/luminitza24/health-project-fe/static/js/557.7d18e2ce.chunk.js",
+    "static/js/358.0185537d.chunk.js": "/luminitza24/health-project-fe/static/js/358.0185537d.chunk.js",
+    "static/js/516.25611a59.chunk.js": "/luminitza24/health-project-fe/static/js/516.25611a59.chunk.js",
+    "static/js/883.cc2368c8.chunk.js": "/luminitza24/health-project-fe/static/js/883.cc2368c8.chunk.js",
+    "static/css/551.0bd6db87.chunk.css": "/luminitza24/health-project-fe/static/css/551.0bd6db87.chunk.css",
+    "static/media/strawberry.png": "/luminitza24/health-project-fe/static/media/strawberry.836e5725940428c8c4f2.png",
+    "static/media/banana.png": "/luminitza24/health-project-fe/static/media/banana.7207c38c5ad475e84ef2.png",
+    "static/media/layer.png": "/luminitza24/health-project-fe/static/media/layer.f777e8b275f7eb39ad25.png",
+    "static/media/notfound.png": "/luminitza24/health-project-fe/static/media/notfound.fd43b4b0cb205a294a19.png",
+    "static/media/slim.svg": "/luminitza24/health-project-fe/static/media/slim.40adbeb656b35848830b794eb361f3d3.svg",
+    "static/media/mom.svg": "/luminitza24/health-project-fe/static/media/mom.aa1a5291447404d1476d20fbe6e75c70.svg",
+    "index.html": "/luminitza24/health-project-fe/index.html",
+    "static/media/border.svg": "/luminitza24/health-project-fe/static/media/border.d5db2aaedfe2d6b23a10b61256ef7695.svg",
+    "main.3575eee6.css.map": "/luminitza24/health-project-fe/static/css/main.3575eee6.css.map",
+    "main.328a5dd0.js.map": "/luminitza24/health-project-fe/static/js/main.328a5dd0.js.map",
+    "781.940a7fab.chunk.js.map": "/luminitza24/health-project-fe/static/js/781.940a7fab.chunk.js.map",
+    "537.1d49d569.chunk.js.map": "/luminitza24/health-project-fe/static/js/537.1d49d569.chunk.js.map",
+    "815.fb26101b.chunk.js.map": "/luminitza24/health-project-fe/static/js/815.fb26101b.chunk.js.map",
+    "752.024f39f2.chunk.js.map": "/luminitza24/health-project-fe/static/js/752.024f39f2.chunk.js.map",
+    "557.7d18e2ce.chunk.js.map": "/luminitza24/health-project-fe/static/js/557.7d18e2ce.chunk.js.map",
+    "358.0185537d.chunk.js.map": "/luminitza24/health-project-fe/static/js/358.0185537d.chunk.js.map",
+    "516.25611a59.chunk.js.map": "/luminitza24/health-project-fe/static/js/516.25611a59.chunk.js.map",
+    "883.cc2368c8.chunk.js.map": "/luminitza24/health-project-fe/static/js/883.cc2368c8.chunk.js.map",
+    "551.0bd6db87.chunk.css.map": "/luminitza24/health-project-fe/static/css/551.0bd6db87.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.3575eee6.css",
+    "static/js/main.328a5dd0.js"
+  ]
+}
